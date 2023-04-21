@@ -5,7 +5,7 @@ return {
         'LOSTRITUALOWNSYOU', 'prunebot', 'skidbottingera', 'killhouseAC7', 'llllllllIIIllIIllI', 'CaughtHisAssLackin', 'PicOfUrAssOnDoxbin', 'SniperRifleScope',
         'AgriculturePlants', 'executiveauthority', 'AllowanceMoney', 'emergencyelevator', 'AlwaysSmokinWax', 'bottedby_kxt5970', 'KillaSwats', 'KillaExtorts',
         'ILoveBwc', 'WHOLELOTTAHOLDER', 'egirlb2oobs', 'Hexaria_R20', 'kronebot', 'bottedby_kxt5970', 'mistamisery', 'NETWORKRUNSU', 'cutesillybak_',
-        'TheLongrangeRifle_', 'HOLDINGNEXT', 'yieviro92creepy', 'HarmSocietyBot', 'Cxnvicted4'
+        'TheLongrangeRifle_', 'HOLDINGNEXT', 'yieviro92creepy', 'HarmSocietyBot', 'Cxnvicted'
     },
 
     Display = {
