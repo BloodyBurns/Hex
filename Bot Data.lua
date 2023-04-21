@@ -15,6 +15,6 @@ return {
 
     FilterMessage = {
         '.gg/shhh', '| Hold', 'dis//shh', '@krone', '.gg/gravesite', '@murder', '.ggvwl', 'purchase whitelist', 'purchase a whitelist',
-        '@gesture', 'gesture#', '.gg/gravesite', 'Tox1chappy', 'nAdwzx7Bsk', 'join for ', 'join. gg'
+        '@gesture', 'gesture#', '.gg/gravesite', 'Tox1chappy', 'nAdwzx7Bsk', 'join for ', 'join .gg'
     }
 };
