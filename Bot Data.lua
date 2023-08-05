@@ -5,7 +5,8 @@ return {
         'LOSTRITUALOWNSYOU', 'prunebot', 'skidbottingera', 'killhouseAC7', 'llllllllIIIllIIllI', 'CaughtHisAssLackin', 'PicOfUrAssOnDoxbin', 'SniperRifleScope',
         'AgriculturePlants', 'executiveauthority', 'AllowanceMoney', 'emergencyelevator', 'AlwaysSmokinWax', 'bottedby_kxt5970', 'KillaSwats', 'KillaExtorts',
         'ILoveBwc', 'WHOLELOTTAHOLDER', 'egirlb2oobs', 'Hexaria_R20', 'kronebot', 'bottedby_kxt5970', 'mistamisery', 'NETWORKRUNSU', 'cutesillybak_',
-        'TheLongrangeRifle_', 'HOLDINGNEXT', 'yieviro92creepy', 'HarmSocietyBot', 'Cxnvicted', 'SolicitRunsYou'
+        'TheLongrangeRifle_', 'HOLDINGNEXT', 'yieviro92creepy', 'HarmSocietyBot', 'Cxnvicted', 'SolicitRunsYou', 'y3333dssss', 'soci6lly', 'hu4nu95nb78gawr',
+        'Digital_Bot', 'cam8858'
     },
 
     Display = {
@@ -15,6 +16,6 @@ return {
 
     FilterMessage = {
         '.gg/shhh', '| Hold', 'dis//shh', '@krone', '.gg/gravesite', '@murder', '.ggvwl', 'purchase whitelist', 'purchase a whitelist',
-        '@gesture', 'gesture#', '.gg/gravesite', 'Tox1chappy', 'nAdwzx7Bsk', 'join for ', 'join .gg', '/solicit'
+        '@gesture', 'gesture#', '.gg/gravesite', 'Tox1chappy', 'nAdwzx7Bsk', 'join for ', 'join .gg', '.gg/lift', 'buy proton premium', '@tanaaww'
     }
 };
