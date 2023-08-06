@@ -15,7 +15,7 @@ return {
     },
 
     FilterMessage = {
-        '.gg/shhh', '| Hold', 'dis//shh', '@krone', '.gg/gravesite', '@murder', '.ggvwl', 'purchase whitelist', 'purchase a whitelist',
+        '.gg/shhh', '| Hold', 'dis//shh', '@krone', '.gg/gravesite', '@murder', '.ggvwl', 'purchase whitelist', 'purchase a whitelist', '@voidfunction',
         '@gesture', 'gesture#', '.gg/gravesite', 'Tox1chappy', 'nAdwzx7Bsk', 'join for ', 'join .gg', '.gg/lift', 'buy proton premium', '@tanaaww'
     }
 };
