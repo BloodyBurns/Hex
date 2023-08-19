@@ -6,7 +6,7 @@ return {
         'AgriculturePlants', 'executiveauthority', 'AllowanceMoney', 'emergencyelevator', 'AlwaysSmokinWax', 'bottedby_kxt5970', 'KillaSwats', 'KillaExtorts',
         'ILoveBwc', 'WHOLELOTTAHOLDER', 'egirlb2oobs', 'Hexaria_R20', 'kronebot', 'bottedby_kxt5970', 'mistamisery', 'NETWORKRUNSU', 'cutesillybak_',
         'TheLongrangeRifle_', 'HOLDINGNEXT', 'yieviro92creepy', 'HarmSocietyBot', 'Cxnvicted', 'SolicitRunsYou', 'y3333dssss', 'soci6lly', 'hu4nu95nb78gawr',
-        'Digital_Bot', 'cam8858'
+        'Digital_Bot', 'cam8858', 'curvingx'
     },
 
     Display = {
